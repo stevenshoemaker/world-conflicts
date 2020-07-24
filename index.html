@@ -22,7 +22,7 @@
   <div id="globeViz"></div>
 
   <script>
-    const weightColor = d3.scaleSequentialSqrt(d3.interpolatePuRd)
+    const weightColor = d3.scaleSequentialSqrt(d3.interpolateCividis)
       .domain([0, 20]);
 
     const world = Globe()
