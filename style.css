@@ -48,4 +48,12 @@ p {
   section {
     left: 100px;
   }
+  
+  h2 {
+  font-weight: lighter;
+  font-size: 10px;
+  font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+
+}
 }
